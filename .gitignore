@@ -1,0 +1,5 @@
+.idea/
+env/
+dj_molch/dj_molch/__pycache__/
+dj_molch/blog/__pycache__/
+dj_molch/api_blog/__pycache__/
